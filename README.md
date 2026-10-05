@@ -1,4 +1,5 @@
 # DOE-Stata-Analysis
+
 My econometric analysis using Malaysia data - Stata
 
 ## Projects in this repository
@@ -8,9 +9,9 @@ My econometric analysis using Malaysia data - Stata
 - Methods: FE, RE, Breusch-Pagan LM, Hausman, Driscoll-Kraay, MMQR, Dynamic Panel
 - File: `air_pollution_panel.do`
 
-### 2. Corporate Governance & Firm Performance
-- Data source: Bursa Malaysia - 69 firms (2020-2022)
-- Methods: FE/RE, Breusch-Pagan LM, Hausman, Robust & Clustered SE, PCSE, Winsorizing
+### 2. Corporate Governance & Firm Performance - China
+- Data source: Chinese listed firms - Panel data provided by supervisor (Confidential)
+- Methods: FE/RE, Breusch-Pagan LM, Hausman, Robust & Clustered SE, PCSE, Winsorizing, Spearman Correlations
 - File: `corporate_governance_panel.do`
 
 - Tools: Stata 18
