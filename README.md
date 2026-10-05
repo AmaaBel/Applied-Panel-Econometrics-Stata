@@ -14,6 +14,6 @@ My econometric analysis using Malaysia data - Stata
 - Methods: FE/RE, Breusch-Pagan LM, Hausman, Robust & Clustered SE, PCSE, Winsorizing, Spearman Correlations
 - File: `corporate_governance_panel.do`
 
-- Tools: Stata 18
+- Tools: Stata 17
 - Author: AmaaBel | UKM Alumni | Economist
 - Focus: Environmental Economics & Corporate Governance
