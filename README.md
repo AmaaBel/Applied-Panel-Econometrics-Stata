@@ -1,19 +1,18 @@
-# DOE-Stata-Analysis
+# Applied-Panel-Econometrics-Stata
 
-My econometric analysis using Malaysia data - Stata
+Advanced panel data econometric analysis using Stata 17.
 
-## Projects in this repository
+## Projects
 
 ### 1. Air Pollution Panel (PM2.5) - Malaysia
-- Data source: Department of Environment Malaysia (DOE) - PM2.5 data
-- Methods: FE, RE, Breusch-Pagan LM, Hausman, Driscoll-Kraay, MMQR, Dynamic Panel
-- File: `air_pollution_panel.do`
+- **Data:** Department of Environment Malaysia (DOE) - PM2.5
+- **Methods:** FE, Breusch-Pagan LM, Hausman, Fixed Effect Driscoll-Kraay SE, MMQR (Machado & Santos Silva), Dynamic Panel
+- **File:** `air_pollution_panel.do`
 
 ### 2. Corporate Governance & Firm Performance - China
-- Data source: Chinese listed firms - Panel data provided by supervisor (Confidential)
-- Methods: FE/RE, Breusch-Pagan LM, Hausman, Robust & Clustered SE, PCSE, Winsorizing, Spearman Correlations
-- File: `corporate_governance_panel.do`
+- **Data:** Chinese listed firms - Panel data provided by supervisor (Confidential)
+- **Methods:** FE/RE, Hausman, Robust & Clustered SE, PCSE, Winsorizing, Spearman Correlations
+- **File:** `corporate_governance_panel.do`
 
-- Tools: Stata 17
-- Author: AmaaBel | UKM Alumni | Economist
-- Focus: Environmental Economics & Corporate Governance
+**Tools:** Stata 17
+**Author:** AmaaBel | UKM Alumni | Applied Economist
